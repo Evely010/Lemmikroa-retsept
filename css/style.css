@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+body {
+    background-color:rgb(235, 202, 220);
+}
+
+.heading {
+    text-align: center;
+}
+
+.lemmikroa-retsept-heading {
+    color: darkorchid;
+    font-family: "Playwrite GB S", cursive;
+    font-size: 3rem;
+}
+
+.ingredients {
+    color: rgb(161, 38, 192);
+    font-family: "Caveat", cursive;
+    font-size: 1.3rem;
+    border: 1px solid black;
+    width: 50%;
+    margin: 1rem auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.instructions {
+    color: rgb(161, 38, 192);
+    font-family: "Caveat", cursive;
+    font-size: 1.3rem;
+    border: 1px solid black;
+    width: 50%;;
+    margin: 0 auto;
+}
+
+.instructions ol {
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.img {
+    display: block;
+    width: 300px;
+    border-radius: 50%;
+    margin: 1rem auto;
+}
